@@ -3,19 +3,13 @@
 //
 // Author: Robbie Watling
 
-# include <cuda.h>
-# include <cuda_runtime_api.h>
-# include <device_launch_parameters.h>
-# include <iostream>
-# include <vector>
-# include <cassert>
-# include <time.h>
+# include "system_includes.h"
 
 using namespace std;
 
 // CUDA kernel for vector addition
 // __global__ means this is called from the CPU, and runs on the GPU
-__global__ void vector_add(int* a, int* __restrict b, int* c, int n) {
+__global__ void vector_add(int* a, int* b, int* c, int n) {
     // Calculate global thread ID
     int tid = (blockIdx.x * blockDim.x) + threadIdx.x;
 
