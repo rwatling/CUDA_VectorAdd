@@ -4,7 +4,10 @@
 # include <cuda_runtime_api.h>
 # include <device_launch_parameters.h>
 # include <iostream>
+# include <fstream>
 # include <vector>
 # include <cassert>
 # include <time.h>
+# include <string>
+# include <iostream>
 # endif

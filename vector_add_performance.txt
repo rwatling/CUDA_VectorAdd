@@ -1,0 +1,100 @@
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.304 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.004 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.007 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.006 seconds
+---------------------------------------------
+Number of array elements (n): 8192
+Number of threads: 512
+Number of blocks: 16
+Time elapsed: 0.005 seconds
+---------------------------------------------
